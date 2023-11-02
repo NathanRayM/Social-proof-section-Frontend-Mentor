@@ -1,11 +1,11 @@
-![Social proof section]()
+![Social proof section](https://github.com/NathanRayM/Social-proof-section-Frontend-Mentor/blob/main/Social%20Proof%20SS.png)
 
 <h1 align="center">Social proof section</h1>
 
 <div align="center">
 
-[Live]()
-| [Solution]()
+[Live](https://nathanraym.github.io/Social-proof-section-Frontend-Mentor/)
+| [Solution](https://github.com/NathanRayM/Social-proof-section-Frontend-Mentor.git)
 | [Challenge](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA)
 
 Solution for a challenge from [frontendmentor.io](https://www.frontendmentor.io/)
