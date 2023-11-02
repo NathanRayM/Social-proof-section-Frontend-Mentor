@@ -29,4 +29,4 @@ This was great practice building layouts and positioning them.
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on my [solution](). It definitely helps to find new ways to code and find easier solutions!
+A big thank you to anyone providing feedback on my [solution](https://www.frontendmentor.io/solutions/my-solution-to-the-social-proof-section-challenge-JpmEQg9rZB). It definitely helps to find new ways to code and find easier solutions!
